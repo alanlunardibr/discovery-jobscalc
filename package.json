@@ -1,0 +1,11 @@
+{
+  "name": "discovery-jobscalc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alanlunardibr/discovery-jobscalc.git",
+  "author": "Alan Lunardi <alan.lunardi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
